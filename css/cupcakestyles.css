@@ -1,0 +1,20 @@
+h1.flashy, title.flashy {
+  color: red;
+  font-style: italic;
+}
+
+
+p1.best, img1.best, {
+  font-style: bold;
+
+}
+
+body {
+  background-color: teal;
+  width: 65%;
+}
+
+background {
+  background-image: url("1.jpg")
+  background-color: #cccccc;
+}
